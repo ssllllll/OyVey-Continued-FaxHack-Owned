@@ -1,7 +1,3 @@
-## Why isnt working??
-
-IDK 😢 Im gonna check whats wrong on it and then ill make new release, sorry ma fellas
-
 # OyVey-SRC
 
 Since FaxHack went monkey I dicedided to make the repo as mine because i added everything and FaxHack just modified the README, anyway probably I wont continue OyVey because no one helps
