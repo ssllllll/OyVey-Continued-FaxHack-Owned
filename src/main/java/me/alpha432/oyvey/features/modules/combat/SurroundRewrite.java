@@ -1,9 +1,5 @@
 package me.alpha432.oyvey.features.modules.combat;
 
-/**Not a real rewrite, this was made thanks to TrollGod
- * I just wanted to add a cool name lol
- */
-
 import me.alpha432.oyvey.OyVey;
 import me.alpha432.oyvey.features.modules.Module;
 import me.alpha432.oyvey.features.setting.Setting;
