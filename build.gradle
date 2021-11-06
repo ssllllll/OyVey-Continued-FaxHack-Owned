@@ -120,3 +120,4 @@ jar {
 }
 
 build.dependsOn(shadowJar)
+a
