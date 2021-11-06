@@ -3,13 +3,13 @@
     "modid": "oyvey",
     "name": "OyVey",
     "description": "1.12.2 Anarchy PvP Client",
-    "version": "0.0.3",
+    "version": "0.0.7",
     "mcversion": "1.12.2",
     "logoFile": "niggahack.png",
     "url": "https://discordapp.com/invite/WcAx3ps",
     "updateUrl": "",
     "authorList": [
-      "Alpha432"
+      "sslwastaken"
     ],
     "screenshots": [],
     "dependencies": []
