@@ -1,6 +1,6 @@
 # OyVey-SRC
 
-Since FaxHack went monkey I dicedided to make the repo as mine because i added everything and FaxHack just modified the README, anyway probably I wont continue OyVey because no one helps
+Maybe i'll continue this, i was bored and wanted to update it
 
 ## EZ RAID
 
@@ -8,13 +8,6 @@ Since FaxHack went monkey I dicedided to make the repo as mine because i added e
 
 ## Changelog:
 
-* Added AutoLog
-* Added EXPFast
-* Added BurrowESP
-* Added PenisESP
-* Added Burrow
-* Added ViewModel
-* Fixed AutoCrystal
-* Added SurroundRewrite (Sexy Surround)
-* Added PopChams
-* Deleted PacketFly, reason: empty and useless code :P
+* Categorized everything
+* Modifications to the CA
+
