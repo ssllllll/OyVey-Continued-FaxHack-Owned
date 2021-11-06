@@ -10,4 +10,5 @@ Maybe i'll continue this, i was bored and wanted to update it
 
 * Categorized everything
 * Modifications to the CA
+* Speedmine
 
